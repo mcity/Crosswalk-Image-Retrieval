@@ -1,0 +1,6 @@
+##A .env sample
+export DEBUG=True
+export S3_KEY='SOMEKEY'
+export S3_SECRET_ACCESS_KEY='SOMESECRET'
+export S3_BUCKET='SOMEBUCKETNAME'
+export FETCH_URL='https://mcity.umich.edu/wp-content/uploads/2019/02/shuttle-560x350.jpg'
