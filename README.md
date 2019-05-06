@@ -2,13 +2,13 @@
 Fetches an image from a get endpoint and uploads it to an S3 Bucket.
 
 ### Installation
-Bilt for Python 3.x.
+Built for Python 3.x.
 
 ```sh
 $ brew install python3
 ```
 
-Create a virutal env and install dependencies 
+Create a virtual env and install dependencies 
 ```sh
 $ python3 -m venv venv
 $ source venv/bin/activate
